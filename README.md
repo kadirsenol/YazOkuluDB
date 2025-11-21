@@ -6,3 +6,9 @@
 1. `C:\Windows\SysWOW64\SQLServerManager16.msc` adresinde bulunan **SQLServerManager16** çalıştırılır.
 2. **SQL Server Network Configuration → Protocols for MSSQLSERVER → TCP/IP** ayarı `Enable` olarak değiştirilir.
 3. **SQL Server Services → SQL Server (MSSQLSERVER)** seçeneğine sağ tıklayıp `Restart` edilir.
+
+- Gerek görülmesi durumunda veritabanı connection bilgileri;
+1.     "MSSQL_HOST": "localhost",
+2.     "MSSQL_DATABASE": "YazOkuluDB",
+3.     "MSSQL_USERNAME": "halic",
+4.     "MSSQL_PASSWORD": "halic"
