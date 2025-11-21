@@ -1,4 +1,4 @@
-## SQL Server Ayarları ve Veritabanı Oluşturma
+## SQL Server Ayarları ve Veritabanı Oluşturma - README
 
 - Repoya gönderilen `YazOkuluDbScript.sql` dosyası SQL Server Management Studio (SSMS) içerisinden çalıştırılarak script uygulanır. Bu işlem sonrası kullanıcılar, tablo şemaları ve datalar ile veritabanı oluşturulacaktır.
 
